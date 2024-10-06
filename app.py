@@ -86,4 +86,5 @@ The following 5 features from the dataset are used for the predictions. It was d
 ##### Dataset Citation
 1. Rabie El Kharoua. Alzheimer's Disease Dataset. Kaggle, 2024, https://doi.org/10.34740/KAGGLE/DSV/8668279.
 
+*This app and its models are designed solely for experimental use and are not to be used as a basis for making medical diagnoses or decisions.*
 ''')
