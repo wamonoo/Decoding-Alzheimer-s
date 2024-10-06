@@ -77,13 +77,13 @@ The model achieves an accuracy score of 96.05% and cross validation score of 95.
 
 The following 5 features from the dataset are used for the predictions. It was determined through feature selection that they were the most immportant. 
 
-- **Functional Assessment Score (FA)**: Between 0 and 10. Lower scores indicate greater impairment.
-- **Activities of Daily Living (ADL) Score**: Between 0 and 10. Lower scores indicate greater impairment.
-- **Mini-Mental State Examination (MMSE) Score**: Between 0 and 30. Lower scores indicate cognitive impairment.
+- **Functional Assessment Score (FA)**: Between 0 and 10.
+- **Activities of Daily Living (ADL) Score**: Between 0 and 10.
+- **Mini-Mental State Examination (MMSE) Score**: Between 0 and 30.
 - **Memory Complaints**: Indicates if the patient reports memory issues (Yes/No)
 - **Behavioral Problems**: Indicates if the patient has behavioral issues (Yes/No)
 
 ##### Dataset Citation
-Rabie El Kharoua. Alzheimer's Disease Dataset. Kaggle, 2024, https://doi.org/10.34740/KAGGLE/DSV/8668279.
+1. Rabie El Kharoua. Alzheimer's Disease Dataset. Kaggle, 2024, https://doi.org/10.34740/KAGGLE/DSV/8668279.
 
 ''')
